@@ -1,0 +1,26 @@
+name: indigo-pro
+display_name: インディゴ・プロ
+canvas:
+  w: 1280
+  h: 720
+  bg: "#f7f8fb"
+palette:
+  accent: "#4f46e5"
+  heading: "#1a1c2e"
+  body: "#3a3d52"
+  muted: "#71748c"
+  kicker: "#4f46e5"
+  rule: "#e4e5ee"
+  good: "#2f9e6b"
+  bad: "#d64560"
+typography:
+  heading: { family: sans, size: 52, weight: 700, line: 1.2 }
+  subhead: { family: sans, size: 24, weight: 400, line: 1.5 }
+  body:    { family: sans, size: 27, weight: 400, line: 1.5 }
+  kicker:  { family: sans, size: 18, weight: 700, tracking: 0.13, upper: false }
+bullet:
+  marker: dot
+  marker_color: "#4f46e5"
+margin:
+  x: 96
+  y: 88

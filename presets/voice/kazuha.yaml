@@ -1,0 +1,16 @@
+# 音声プリセット: Kazuha(公開声・女性 温かい) — EL Voice Library / eleven_v3
+id: kazuha
+label: Kazuha・女性 温かい
+gender: 女性
+voice_id: <VOICE_ID>   # placeholder: set a voice from your own voice library
+seed: 42
+voice_params:
+  stability: 0.45
+  style: 0.45
+  similarity_boost: 0.75
+  use_speaker_boost: true
+narration_tone: "温かく優しい"
+narration_persona:
+  first_person: 私
+  register: です・ます調(やさしい)
+  personality: 温かく優しい。聞き手に寄り添い、やわらかく語る。

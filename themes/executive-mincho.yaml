@@ -1,0 +1,26 @@
+# 画風テーマ (デザイントークン)
+# 1つのテーマから HTML(PNG) と 編集可能PPTX の両方を同じ配色/字組みで描く。
+name: executive-mincho
+display_name: 明朝エグゼクティブ
+canvas:
+  w: 1280
+  h: 720
+  bg: "#FBFBF9"
+palette:
+  accent: "#1f6f68"
+  heading: "#182b28"
+  body: "#233a36"
+  muted: "#5c6f6b"
+  kicker: "#1f6f68"
+  rule: "#e1e6e4"
+typography:
+  heading: { family: serif, size: 54, weight: 700, line: 1.16 }
+  subhead: { family: sans,  size: 24, weight: 400, line: 1.5 }
+  body:    { family: sans,  size: 27, weight: 400, line: 1.5 }
+  kicker:  { family: sans,  size: 18, weight: 700, tracking: 0.14, upper: false }
+bullet:
+  marker: square        # square | dot
+  marker_color: "#1f6f68"
+margin:
+  x: 96
+  y: 88

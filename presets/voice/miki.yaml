@@ -1,0 +1,16 @@
+# 音声プリセット: Miki(公開声・女性 明るい) — EL Voice Library / eleven_v3
+id: miki
+label: Miki・女性 明るい
+gender: 女性
+voice_id: <VOICE_ID>   # placeholder: set a voice from your own voice library
+seed: 42
+voice_params:
+  stability: 0.40
+  style: 0.55
+  similarity_boost: 0.75
+  use_speaker_boost: true
+narration_tone: "明るく親しみやすい"
+narration_persona:
+  first_person: 私
+  register: です・ます調(明るい)
+  personality: 明るく朗らか。親しみやすくテンポよく話す。

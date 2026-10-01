@@ -1,0 +1,24 @@
+name: modern-sans
+display_name: モダン・ゴシック
+canvas:
+  w: 1280
+  h: 720
+  bg: "#FBFBFC"
+palette:
+  accent: "#3b5bd9"
+  heading: "#161a2b"
+  body: "#333747"
+  muted: "#6b7086"
+  kicker: "#3b5bd9"
+  rule: "#e3e5ee"
+typography:
+  heading: { family: sans, size: 52, weight: 700, line: 1.2 }
+  subhead: { family: sans, size: 24, weight: 400, line: 1.5 }
+  body:    { family: sans, size: 27, weight: 400, line: 1.5 }
+  kicker:  { family: sans, size: 18, weight: 700, tracking: 0.12, upper: false }
+bullet:
+  marker: dot
+  marker_color: "#3b5bd9"
+margin:
+  x: 96
+  y: 88

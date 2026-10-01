@@ -1,0 +1,26 @@
+name: coral-editorial
+display_name: コーラル・エディトリアル
+canvas:
+  w: 1280
+  h: 720
+  bg: "#fcf8f5"
+palette:
+  accent: "#e0674a"
+  heading: "#241a16"
+  body: "#4a3e38"
+  muted: "#8f8079"
+  kicker: "#e0674a"
+  rule: "#eaddd6"
+  good: "#3f9a6b"
+  bad: "#d0523a"
+typography:
+  heading: { family: serif, size: 54, weight: 700, line: 1.18 }
+  subhead: { family: serif, size: 24, weight: 400, line: 1.5 }
+  body:    { family: sans, size: 27, weight: 400, line: 1.55 }
+  kicker:  { family: sans, size: 17, weight: 700, tracking: 0.15, upper: false }
+bullet:
+  marker: square
+  marker_color: "#e0674a"
+margin:
+  x: 100
+  y: 90

@@ -1,0 +1,27 @@
+# 画風テーマ — 端正・濃紺(落ち着きと信頼感が要る場面向けの汎用テーマ)
+# 他のテーマはビジネス提案・エディトリアル寄りで、静かな場面には強すぎることがある。
+# 鮮やかな原色と大きな数字の強調を避け、明朝の見出しと淡い地色で静かに見せる。
+name: formal-navy
+display_name: 端正・濃紺
+canvas:
+  w: 1280
+  h: 720
+  bg: "#FCFCFA"
+palette:
+  accent: "#1d4f8a"      # 落ち着いた濃紺(アクセント)
+  heading: "#1f2a33"
+  body: "#333333"
+  muted: "#6b7785"
+  kicker: "#4a6076"
+  rule: "#dfe3e7"
+typography:
+  heading: { family: serif, size: 50, weight: 700, line: 1.2 }
+  subhead: { family: serif, size: 24, weight: 400, line: 1.55 }
+  body:    { family: sans,  size: 26, weight: 400, line: 1.6 }
+  kicker:  { family: sans,  size: 17, weight: 700, tracking: 0.1, upper: false }
+bullet:
+  marker: square
+  marker_color: "#185192"
+margin:
+  x: 96
+  y: 88

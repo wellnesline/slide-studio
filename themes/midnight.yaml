@@ -1,0 +1,26 @@
+name: midnight
+display_name: ミッドナイト（ダーク）
+canvas:
+  w: 1280
+  h: 720
+  bg: "#12161d"
+palette:
+  accent: "#4fc3b0"
+  heading: "#eef2f5"
+  body: "#c2cad3"
+  muted: "#8a95a3"
+  kicker: "#4fc3b0"
+  rule: "#2a3140"
+  good: "#4fc3a0"
+  bad: "#e0776a"
+typography:
+  heading: { family: sans, size: 52, weight: 700, line: 1.2 }
+  subhead: { family: sans, size: 24, weight: 400, line: 1.5 }
+  body:    { family: sans, size: 27, weight: 400, line: 1.5 }
+  kicker:  { family: sans, size: 18, weight: 700, tracking: 0.12, upper: false }
+bullet:
+  marker: dot
+  marker_color: "#4fc3b0"
+margin:
+  x: 96
+  y: 88

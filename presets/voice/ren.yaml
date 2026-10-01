@@ -1,0 +1,16 @@
+# 音声プリセット: Ren(公開声・男性 なめらか) — EL Voice Library / eleven_v3
+id: ren
+label: Ren・男性 なめらか
+gender: 男性
+voice_id: <VOICE_ID>   # placeholder: set a voice from your own voice library
+seed: 42
+voice_params:
+  stability: 0.45
+  style: 0.45
+  similarity_boost: 0.75
+  use_speaker_boost: true
+narration_tone: "なめらかで聞きやすい"
+narration_persona:
+  first_person: 僕
+  register: です・ます調
+  personality: 穏やかでなめらか。聞き心地よく、落ち着いて語る。

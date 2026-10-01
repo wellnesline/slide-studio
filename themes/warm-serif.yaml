@@ -1,0 +1,24 @@
+name: warm-serif
+display_name: 雑誌エディトリアル
+canvas:
+  w: 1280
+  h: 720
+  bg: "#FAF6EE"
+palette:
+  accent: "#c2603a"
+  heading: "#2a2018"
+  body: "#3f362c"
+  muted: "#8a7d6c"
+  kicker: "#c2603a"
+  rule: "#e7ddca"
+typography:
+  heading: { family: serif, size: 54, weight: 700, line: 1.18 }
+  subhead: { family: serif, size: 24, weight: 400, line: 1.5 }
+  body:    { family: sans, size: 27, weight: 400, line: 1.55 }
+  kicker:  { family: sans, size: 17, weight: 700, tracking: 0.16, upper: false }
+bullet:
+  marker: square
+  marker_color: "#c2603a"
+margin:
+  x: 100
+  y: 90

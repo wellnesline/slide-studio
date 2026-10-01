@@ -1,0 +1,15 @@
+# slide-studio dependencies (best-effort list)
+fastapi
+uvicorn
+python-multipart
+python-pptx
+Pillow
+playwright
+PyYAML
+httpx
+fonttools
+certifi
+PyMuPDF
+python-docx
+lxml
+markdown

@@ -1,0 +1,16 @@
+# 音声プリセット: Maya(公開声・女性 クリア) — EL Voice Library / eleven_v3
+id: maya
+label: Maya・女性 クリアな説明
+gender: 女性
+voice_id: <VOICE_ID>   # placeholder: set a voice from your own voice library
+seed: 42
+voice_params:
+  stability: 0.50
+  style: 0.40
+  similarity_boost: 0.75
+  use_speaker_boost: true
+narration_tone: "クリアで聞き取りやすい説明調"
+narration_persona:
+  first_person: 私
+  register: です・ます調(クリアな説明)
+  personality: はっきり聞き取りやすく、丁寧。落ち着いて要点を伝える。

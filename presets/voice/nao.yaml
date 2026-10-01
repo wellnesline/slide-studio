@@ -1,0 +1,16 @@
+# 音声プリセット: Nao(公開声・男性 明るい説明調) — EL Voice Library / eleven_v3
+id: nao
+label: Nao・男性 明るい説明調
+gender: 男性
+voice_id: <VOICE_ID>   # placeholder: set a voice from your own voice library
+seed: 42
+voice_params:
+  stability: 0.40
+  style: 0.55
+  similarity_boost: 0.75
+  use_speaker_boost: true
+narration_tone: "明るく親しみやすい説明調"
+narration_persona:
+  first_person: 僕
+  register: です・ます調(明るい説明)
+  personality: 親しみやすく前向き。噛み砕いてテンポよく、聞き手を置いていかない。

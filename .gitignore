@@ -1,0 +1,18 @@
+# 生成物
+out/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+# OFLフォントの実バイナリ(大きい)。_fetch_fonts.py で再取得可・OFL_LICENSE.txt は残す
+assets/fonts/*.ttf
+assets/fonts/*.otf
+assets/fonts/_var_*
+
+# secrets / local data
+.env
+.env.*
+!.env.example
+projects/
+favorites.json
+assets/icons/_png/

@@ -1,0 +1,16 @@
+# 音声プリセット: Shohei(公開声・男性 プロのナレーション) — EL Voice Library / eleven_v3
+id: shohei
+label: Shohei・男性 落ち着いたナレーション
+gender: 男性
+voice_id: <VOICE_ID>   # placeholder: set a voice from your own voice library
+seed: 42
+voice_params:
+  stability: 0.50
+  style: 0.35
+  similarity_boost: 0.75
+  use_speaker_boost: true
+narration_tone: "落ち着いた信頼感のあるナレーション"
+narration_persona:
+  first_person: 私
+  register: です・ます調(落ち着いた語り)
+  personality: 落ち着いて信頼感がある。丁寧に、要点を明瞭に伝える。
